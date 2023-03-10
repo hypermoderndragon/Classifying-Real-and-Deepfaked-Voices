@@ -1,4 +1,4 @@
-#Classifying Real and Deepfaked Presidential Voices Using Signal Processing and Machine Learning Techniques
+# Classifying Real and Deepfaked Presidential Voices Using Signal Processing and Machine Learning Techniques
 ## Problem Statement
 Deepfake technology has recently become more accessible to normal people due to advances in AI. This has prompted concern amongst political journalists that the technology could be abused to create false videos, resulting in an increase in misinformation.
 
